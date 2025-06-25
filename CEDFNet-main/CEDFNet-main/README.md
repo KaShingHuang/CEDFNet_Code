@@ -18,5 +18,5 @@ Please note the following points:
 2. You can calculate fid using  'python -m metrics.fid --path yourpath1 yourpath2'
 
 You can get the pre-trained results from the following link  
-https://pan.baidu.com/s/1xz-j9yxjkOE2DCoveuHFBA?pwd=5la9 
+https://pan.baidu.com/s/1PDeFSJAV-I1xF6oYtA3ygQ?pwd=h4zj
 
